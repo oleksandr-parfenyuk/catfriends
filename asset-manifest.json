@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oleksandr-parfenyuk/catfriends/static/css/main.2f03b53f.css",
-    "main.js": "/oleksandr-parfenyuk/catfriends/static/js/main.0dcbcb7f.js",
-    "static/js/787.32032a02.chunk.js": "/oleksandr-parfenyuk/catfriends/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/oleksandr-parfenyuk/catfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/oleksandr-parfenyuk/catfriends/index.html",
-    "main.2f03b53f.css.map": "/oleksandr-parfenyuk/catfriends/static/css/main.2f03b53f.css.map",
-    "main.0dcbcb7f.js.map": "/oleksandr-parfenyuk/catfriends/static/js/main.0dcbcb7f.js.map",
-    "787.32032a02.chunk.js.map": "/oleksandr-parfenyuk/catfriends/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/catfriends/static/css/main.8ecce881.css",
+    "main.js": "/catfriends/static/js/main.adb37da9.js",
+    "static/js/787.32032a02.chunk.js": "/catfriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/catfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/catfriends/index.html",
+    "main.8ecce881.css.map": "/catfriends/static/css/main.8ecce881.css.map",
+    "main.adb37da9.js.map": "/catfriends/static/js/main.adb37da9.js.map",
+    "787.32032a02.chunk.js.map": "/catfriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f03b53f.css",
-    "static/js/main.0dcbcb7f.js"
+    "static/css/main.8ecce881.css",
+    "static/js/main.adb37da9.js"
   ]
 }
