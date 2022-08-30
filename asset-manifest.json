@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oleksandr-parfenyuk/catfriends/static/css/main.2f03b53f.css",
+    "main.js": "/oleksandr-parfenyuk/catfriends/static/js/main.0dcbcb7f.js",
+    "static/js/787.32032a02.chunk.js": "/oleksandr-parfenyuk/catfriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/oleksandr-parfenyuk/catfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/oleksandr-parfenyuk/catfriends/index.html",
+    "main.2f03b53f.css.map": "/oleksandr-parfenyuk/catfriends/static/css/main.2f03b53f.css.map",
+    "main.0dcbcb7f.js.map": "/oleksandr-parfenyuk/catfriends/static/js/main.0dcbcb7f.js.map",
+    "787.32032a02.chunk.js.map": "/oleksandr-parfenyuk/catfriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f03b53f.css",
+    "static/js/main.0dcbcb7f.js"
+  ]
+}
